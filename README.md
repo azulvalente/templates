@@ -7,4 +7,3 @@ In this website, you a collection of templates showcasing my work as a technical
 
 Thank you for taking the time to learn more about me! 😀
 
-- (About me)[docs\about-me.md]
