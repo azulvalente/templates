@@ -1,0 +1,17 @@
+site_name: "Portfolio"
+site_url: "https://azulvalente.github.io/templates/"
+
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - admonition
+  - footnotes
+
+theme:
+  name: mkdocs
+
+nav:
+  - Home: index.md
+  - About me: about-me.md
+  - Templates: 
+     - How-to guide: how-to-guide.md
