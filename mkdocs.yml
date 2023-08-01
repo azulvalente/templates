@@ -12,6 +12,12 @@ theme:
 
 nav:
   - Home: index.md
-  - About me: about-me.md
+  - About me: 
+     - About me: about-me.md
+     - My cv: mycv.md
   - Templates: 
      - How-to guide: how-to-guide.md
+     - Conceptual documentation: conceptualdocs.md
+
+toc_depth: 1
+

@@ -8,7 +8,11 @@ How-to guides are procedural documents that help users learn new skills and comp
     - Conduct research about the topic
 
 ------
-## Title
+## Template
+
+------
+
+### Title
 
 Date:                                                          
 
@@ -33,3 +37,8 @@ _List all the necessary steps to achieve the desired goal. It is highly recommen
 
 ### References & Additional Resources
 _Add links to your references or to additional resources that might come in handy for users_
+
+---------
+## Sample
+
+📩 [Download a sample](How%20to%20open%20your%20translation.pdf)
