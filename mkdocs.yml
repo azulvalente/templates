@@ -8,7 +8,7 @@ markdown_extensions:
   - footnotes
 
 theme:
-  name: mkdocs
+  name: readthedocs
 
 nav:
   - Home: index.md
@@ -19,5 +19,5 @@ nav:
      - How-to guide: how-to-guide.md
      - Conceptual documentation: conceptualdocs.md
 
-toc_depth: 1
+
 
